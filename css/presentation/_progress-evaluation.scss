@@ -1,0 +1,15 @@
+ul.inline-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.inline-list li {
+    display: inline;
+}
+.future-list li {
+    width: 19%;
+    display: inline-block;
+    background: rgba(255,255,255,0.1);
+    height: 500px;
+    vertical-align: middle;
+}
